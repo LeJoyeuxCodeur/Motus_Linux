@@ -1,0 +1,13 @@
+VERGAUWEN Bryan, Groupe D
+
+Motus, Version Linux
+
+Motus est un jeu de lettres, adapté aux enfants. Le but est de retrouver
+le mot généré aléatoirement dans une liste de mots acessibles aux enfants.
+Les lettres trouvées et placées au bon endroit apparaissent sur un fond rouge,
+celles trouvées mais mal placées apparaissent sur un fond jaune 
+et celles qui ne sont pas dans le mot à trouver apparaissent en noir, 
+sans couleur de fond.
+
+L'utilisateur gagne le jeu si il réussit à trouver les 10 mots avant la fin
+du temps imparti.
